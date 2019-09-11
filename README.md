@@ -2,3 +2,5 @@
 ##Curso de Git de GFT
 
 Una texto descrptivo del cambio
+
+Una linea intermedia
