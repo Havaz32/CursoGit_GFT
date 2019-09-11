@@ -1,2 +1,2 @@
-CursoGit_GFT
-Curso de Git de GFT
+#CursoGit_GFT
+##Curso de Git de GFT
